@@ -9,3 +9,12 @@ print("Número decimal:", numero_decimal)
 print("Mensaje:", mensaje)
 print("¿Es cierto?:", es_cierto)
 
+#Condiciones de python 
+edad = 20
+if edad < 18:
+	print("Eres menor de edad")
+elif edad < 65:
+	print("eres adulto")
+else: 
+	print ("eres adulto mayor")
+
